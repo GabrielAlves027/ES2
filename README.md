@@ -20,3 +20,20 @@ Um aplicativo que, em parceria com empresas que fornecem serviços de turismo, o
 <br>Sistema de gestão para microempreendedores
 
 Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e abrangente, deste modo, deverá integrar as funcionalidades essenciais para a eficiência operacional: gestão de clientes, controle de estoque, emissão de notas fiscais, controle financeiro, automação de tarefas administrativas, integração com contabilidade, geração de relatórios para ajudar na tomada de decisão e integração com meios de pagamento.	Este sistema deve ser projetado para atender às necessidades específicas desse grupo de empreendedores, considerando sua escala reduzida e recursos limitados. Além disso, o sistema deve conter suporte técnico (para duvidas e problemas frequentes), ter uma boa segurança dos dados (garantir a privacidade dos dados importantes, ter um sistema de backup automático) e garantir o acesso remoto via dispositivos moveis (celulares e tablets).
+
+
+## Tecnologias Utilizadas
+
+<br>HTML5 CSS3 JavaScript</br>
+<br>Java</br>
+<br>Kotlin</br>
+<br>Python</br>
+<br>Git</br>
+
+## Ferramenteas Utilizadas
+
+<br>SQLDeveloper</br>
+<br>Oracle Database</br>
+<br>Android Studio</br>
+<br>VS code</br>
+<br>GitHub</br>
