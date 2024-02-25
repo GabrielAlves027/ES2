@@ -1,7 +1,9 @@
 # ES2
 ## Integrantes
 
+<br> 
 André Richard Michael Cardoso
+</br>
 Gabriel Alves Rodrigues
 Ítalo Béllo Silva
 Kaike Freitas de França
