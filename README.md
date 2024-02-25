@@ -2,7 +2,7 @@
 ## Integrantes
 
 <br>André Richard Michael Cardoso</br>
-<br>Gabriel Alves Rodrigues</br>
+<br>Gabriel Alves Rodrigues (GabrielAlves027)</br>
 <br>Ítalo Béllo Silva</br>
 <br>Kaike Freitas de França</br>
 <br>Milena Sophia Sandes Mota Barreto</br>
