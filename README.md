@@ -1,6 +1,6 @@
 # ES2
 
-#Temas
+# Temas
 
 Sistema de Gestão e Controle de PetShop
 
