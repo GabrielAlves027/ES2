@@ -1,13 +1,11 @@
 # ES2
 ## Integrantes
 
-<br> 
-André Richard Michael Cardoso
-</br>
-Gabriel Alves Rodrigues
-Ítalo Béllo Silva
-Kaike Freitas de França
-Milena Sophia Sandes Mota Barreto
+<br>André Richard Michael Cardoso</br>
+<br>Gabriel Alves Rodrigues</br>
+<br>Ítalo Béllo Silva</br>
+<br>Kaike Freitas de França</br>
+<br>Milena Sophia Sandes Mota Barreto</br>
 
 ## Temas
 
