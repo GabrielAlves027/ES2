@@ -1,5 +1,5 @@
 # ES2
-# Integrantes
+## Integrantes
 
 André Richard Michael Cardoso
 Gabriel Alves Rodrigues
@@ -7,7 +7,7 @@ Gabriel Alves Rodrigues
 Kaike Freitas de França
 Milena Sophia Sandes Mota Barreto
 
-# Temas
+## Temas
 
 Sistema de Gestão e Controle de PetShop
 
