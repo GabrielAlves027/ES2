@@ -1,7 +1,7 @@
 # ES2
 ## Integrantes
 
-<br>André Richard Michael Cardoso</br>
+<br>André Richard Michael Cardoso (ARMCardoso)</br>
 <br>Gabriel Alves Rodrigues (GabrielAlves027)</br>
 <br>Ítalo Béllo Silva (Lflickr)</br>
 <br>Kaike Freitas de França</br>
@@ -24,6 +24,10 @@ Semelhante a ideia anterior, mas voltado a cinemas, este app servirá para que o
 <br>Aplicativo para comparar preços de mercados
 
 O aplicativo para comparar preços entre os supermercados funcionaria como uma espécie de API de preços, onde teríamos acesso a todos os preços registrados em estabelecimentos da região, sendo possível assim realizar um comparativo e mostrar para o usuário qual o melhor lugar para comprar o produto por ele desejado. Será possível que o usuário busque produtos de forma avulsa, ou crie uma lista de compras personalizadas que mostrarão para ele qual o lugar com o melhor preço para realizar suas compras. Dentro do app existirá um sistema de avalialção mensal, onde o supermercado com o maior número de avaliações positivas no mês ficaria em destaque no próprio app, ou até mesmo nas redes sociais do app. O supermercado com a melhor avaliação também ganhará uma espécie de selo, semelhante a "Supermercado no precinho do mês de agosto". O usuário poderá se cadastrar usando dados básicos como: CPF, nome, celular e endereço.</br>
+
+<br>Aplicativo para automação de check-in e embarque
+
+A aplicação simplifica o processo de check-in em aeroportos, concentrando-se na leitura e validação eficiente de cartões de embarque, eliminando a necessidade de intervenção manual, tornando o processo rápido e preciso. Os viajantes podem simplesmente escanear seus cartões de embarque em seus dispositivos, evitando filas e facilitando a jornada de viagem. Com segurança aprimorada, oferece uma solução ágil e confiável para tornar a experiência aeroportuária mais fluida e eficaz.</br>
 
 <br>Sistema de gestão para microempreendedores
 
