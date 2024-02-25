@@ -5,7 +5,7 @@
 <br>Gabriel Alves Rodrigues (GabrielAlves027)</br>
 <br>Ítalo Béllo Silva</br>
 <br>Kaike Freitas de França</br>
-<br>Milena Sophia Sandes Mota Barreto</br>
+<br>Milena Sophia Sandes Mota Barreto (Milenxsz) </br>
 
 ## Temas
 
