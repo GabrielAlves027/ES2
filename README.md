@@ -4,7 +4,7 @@
 <br>André Richard Michael Cardoso (ARMCardoso)</br>
 <br>Gabriel Alves Rodrigues (GabrielAlves027)</br>
 <br>Ítalo Béllo Silva (Lflickr)</br>
-<br>Kaike Freitas de França</br>
+<br>Kaike Freitas de França (KaikeFF)</br>
 <br>Milena Sophia Sandes Mota Barreto (Milenxsz) </br>
 
 ## Temas
