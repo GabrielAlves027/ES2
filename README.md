@@ -24,8 +24,8 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 
 <br>Faturamento Minimo:</br>
 
-<br>Degustação:
-Para que novos usuários tenham vontade de utilizar o sistema é necessário montar um atrativo, pensando nisso, um período de testes gratuito do sistema é uma opção para que o usuário aprenda a utilizar e se adapte ao sistema, deste modo, durante este período o usuário terá acesso padrão do sistema e de forma gratuita até terminar seu tempo de avaliação, assim, para continuar usufruindo do sistema, deverá fazer uma assinatura.
+<br>Degustação:</br>
+<br>Para que novos usuários tenham vontade de utilizar o sistema é necessário montar um atrativo, pensando nisso, um período de testes gratuito do sistema é uma opção para que o usuário aprenda a utilizar e se adapte ao sistema, deste modo, durante este período o usuário terá acesso padrão do sistema e de forma gratuita até terminar seu tempo de avaliação, assim, para continuar usufruindo do sistema, deverá fazer uma assinatura.
 Além disso, é possível iniciar um programa de beta testing para os usuários, aqueles interessados no programa receberão uma versão beta, desta forma terão acesso antecipado a novas funcionalidades e atualizações, sendo possível retornar feedbacks relatando suas experiencias com o sistema.
 </br>
 
