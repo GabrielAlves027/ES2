@@ -14,7 +14,7 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 
 ## Modelo de Negocio
 
-<br>https://github.com/Milenxsz/ES2/blob/main/Doc%20-%20ES2%20-%20Gestão%20de%20microempreendedores</br>
+<br>[https://github.com/Milenxsz/ES2/blob/main/Doc%20-%20ES2%20-%20Gestão%20de%20microempreendedores](https://github.com/Milenxsz/ES2/blob/main/Doc/Modelo_de_Negocio)</br>
 
 ## Back-end:
 <br>Java</br>
