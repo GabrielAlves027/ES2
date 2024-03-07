@@ -1,4 +1,4 @@
-<strong>Modelo de Negócio</strong>
+<strong>## Modelo de Negócio</strong>
 
 	- Monetização:
 Através do sistema, os usuários comprarão uma assinatura que liberará acesso completo ao sistema, podendo utilizar todas as ferramentas e funcionalidades. Cabe ao usuário escolher a assinatura que melhor beneficiará o mesmo, seja ela mensal, trimestral, semestral ou anual, além de que, o primeiro mês será oferecido de maneira gratuita para cada usuário, com login e dados, para evitar de que o usuário crie várias contas para burlar o sistema de gratuidade do primeiro mês, será consultado o CPF, caso já tenha sido utilizado, não será apto de utilizar o benefício novamente.
