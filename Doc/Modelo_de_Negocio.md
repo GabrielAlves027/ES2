@@ -1,4 +1,6 @@
 ## Modelo de Negócio
+	-Publico-Alvo:
+Quando pensamos neste tipo de sistema, logo vem a nossa mente o público-alvo que gostaria de contar com ele, afinal, está no próprio nome da ideia. Alguns microempreendedores que estão começando seus negócios não têm acesso a informação quanto a digitalização de seus controles. Este sistema serviria para aqueles que possuem pequenos empreendimentos e tem como principal dor administrar algo que possui várias atribuições, por não terem um grande empreendimento, não querem usar um sistema muito complexo, como os propostos por grandes empresas de sistema, e estão em busca de algo mais compacto que os ajude a conduzir o sistema da melhor maneira, de forma intuitiva e funcional.
 
 	- Mercado
 O nicho de mercado do aplicativo de sistema de gestão para microempreendedor está centrado em empreendedores de pequeno porte que buscam uma solução abrangente e acessível para gerenciar eficientemente suas operações. Este aplicativo destaca-se ao integrar funcionalidades essenciais, incluindo gestão de clientes, controle de estoque, emissão de notas fiscais e controle financeiro.
