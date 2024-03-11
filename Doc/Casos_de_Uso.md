@@ -1,4 +1,6 @@
-Casos de uso:
-	acessar dados da contabilidade
-		controle de estoque
-	analise estatistica 
+Casos de uso
+	Acessar dados de contabilidade
+ 		Controle de estoque
+   		Balancete de verificação
+     		Relatório de vendas
+       		
