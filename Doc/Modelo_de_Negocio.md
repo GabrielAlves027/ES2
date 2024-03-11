@@ -1,5 +1,5 @@
 ## Modelo de Negócio
-	-Publico-Alvo:
+	- Publico-Alvo:
 Quando pensamos neste tipo de sistema, logo vem a nossa mente o público-alvo que gostaria de contar com ele, afinal, está no próprio nome da ideia. Alguns microempreendedores que estão começando seus negócios não têm acesso a informação quanto a digitalização de seus controles. Este sistema serviria para aqueles que possuem pequenos empreendimentos e tem como principal dor administrar algo que possui várias atribuições, por não terem um grande empreendimento, não querem usar um sistema muito complexo, como os propostos por grandes empresas de sistema, e estão em busca de algo mais compacto que os ajude a conduzir o sistema da melhor maneira, de forma intuitiva e funcional.
 
 	- Mercado
@@ -18,7 +18,7 @@ Para que novos usuários tenham vontade de utilizar o sistema é necessário mon
 	- Concorrentes
 Este aplicativo de sistema de gestão para microempreendedores enfrenta concorrência direta de plataformas consolidadas no mercado, tais como QuickBooks, Zoho Books e Trello. Essas alternativas oferecem um conjunto de funcionalidades abrangentes, visando atender às necessidades específicas de pequenos empresários e empreendedores autônomos. Elas possuem histórico estabelecido e são reconhecidas pela sua eficácia na gestão financeira, controle de estoque e outras operações essenciais para negócios de pequeno porte. Além disso, ao considerar nichos específicos, concorrentes mais especializados podem representar desafios significativos. Por exemplo, no setor alimentício, o ContaAzul pode ser um concorrente destacado, fornecendo soluções adaptadas para gestão financeira e emissão de notas fiscais específicas para esse segmento. A competição, portanto, não apenas abrange as plataformas generalistas, mas também soluções mais segmentadas que atendem a demandas particulares de diferentes setores de microempreendedores. A diferenciação eficaz será essencial para posicionar este aplicativo de gestão de forma única e atrativa no mercado.
 
-	- # Faturamento mínimo/Ponto de equilíbrio:
+	#Faturamento mínimo/Ponto de equilíbrio:
 Custo inicial de Desenvolvimento: R$60.000,00
 Custos Fixos Mensais: R$4000
 Custo Variável por Cliente: R$30 (considerando custos de aquisição de clientes, marketing, etc.)
