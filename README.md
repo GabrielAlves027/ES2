@@ -18,13 +18,16 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 
 ## Back-end:
 <br>Java</br>
-<br>Kotlin</br>
-<br>Python</br>
+
+## Mobile:
+<br>React Native</br>
+
 
 ## Front-end:
 <br>HTML5</br>
 <br>CSS3</br>
 <br>JavaScript</br>
+<br>React.js</br>
 
 ## Banco de Dados:
 <br>SQLDeveloper</br>
