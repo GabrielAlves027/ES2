@@ -1,23 +1,21 @@
 # Casos de uso
 ## Controle de Estoque
-	- Monitoração de estoque (Alto nível)
- 	- Ponto de Pedido (Baixo nível)
+	- Monitoramento de estoque
+ 	- Ponto de Pedido
+  	- Fichas de estoque
+   	- Gerar inventário 
+    	
 ## Gestão Financeira
 	- Registrar transações
-
- ## Tomada de Decisões Informadas
-
- ## Atendimento ao Cliente
-
- ## Automação de Processos
+	- Emitir Boleto e Nota Fiscal
+	- Acessar dados de contabilidade
  
-    - Relatório de compras
-    - Demonstração de Resultado do Exercício
-    - Emitir Boleto e Nota Fiscal
-    - Relatório Produto-Fornecedor
-    - Acessar dados de contabilidade
+ ## Gestão de Clientes
+	- Busca de cliente ideal
+ 	- Sistema de fidelização
+  	- Sistema de Agendamento
 
-
-
-#ignorar
-https://www.advtecnologia.com.br/sistema-de-gestao-para-pequenas-empresas/
+  ## Tomada de decisão
+  	- Relatorio de compra e venda
+   	- Relatório Produto-Fornecedor
+ 	- Demonstração de Resultado do Exercício
