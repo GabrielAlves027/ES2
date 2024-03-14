@@ -12,8 +12,8 @@
  
  ## Gestão de Clientes
 	- Busca de cliente ideal
- 	- Sistema de fidelização
-  	- Sistema de Agendamento
+ 	- Monitorar Clientes
+  	- Realizar Agendamentos
 
   ## Tomada de decisão
   	- Relatorio de compra e venda
