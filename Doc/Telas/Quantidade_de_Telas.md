@@ -13,12 +13,12 @@
   - Tela de Inventário
 ## Financeiro e Tomada de Decisão
   - Tela de Dados Contábeis
-  - - Balancete de Verificação
-  - - Balanço Patrimonial
+    - Balancete de Verificação
+    - Balanço Patrimonial
   - Tela de Demonstração de Resultado do Exercício
   - Tela dos Relatórios
-  - - Relatório de Compra e Venda
-  - - Relatório de Produto/Fornecedor
+    - Relatório de Compra e Venda
+    - Relatório de Produto/Fornecedor
   - Tela de Registro de Transações
   - Tela para Emissão de Boletos e Geração de Notas Fiscais
 ## Prestação de Serviços
