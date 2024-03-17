@@ -14,6 +14,7 @@
 	- Busca de cliente ideal
  	- Monitorar Clientes
   	- Realizar Agendamentos
+   	- Relatório de Listagem de Clientes
 
   ## Tomada de decisão
   	- Relatorio de compra e venda
