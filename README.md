@@ -119,4 +119,3 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
  - Relatório de prospecção de cliente ideal
    
 
-
