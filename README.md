@@ -43,25 +43,25 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 
 ## Casos de uso
 ### Controle de Estoque
-	- Monitoramento de estoque
- 	- Ponto de Pedido
-  	- Fichas de estoque
-   	- Gerar inventário 
+- Monitoramento de estoque
+- Ponto de Pedido
+- Fichas de estoque
+- Gerar inventário 
     	
 ### Gestão Financeira
-	- Registrar transações
-	- Emitir Boleto e Nota Fiscal
-	- Acessar dados de contabilidade
+- Registrar transações
+- Emitir Boleto e Nota Fiscal
+- Acessar dados de contabilidade
  
  ### Gestão de Clientes
-	- Busca de cliente ideal
- 	- Monitorar Clientes
-  	- Realizar Agendamentos
+- Busca de cliente ideal
+- Monitorar Clientes
+- Realizar Agendamentos
 
   ### Tomada de decisão
-  	- Relatorio de compra e venda
-   	- Relatório Produto-Fornecedor
- 	- Demonstração de Resultado do Exercício
+  - Relatorio de compra e venda
+   - Relatório Produto-Fornecedor
+ - Demonstração de Resultado do Exercício
 
   ## Telas
 ### Aplicação
@@ -92,3 +92,13 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
   - Tela de Agendamentos
   - Tela de Cosnulta de Agendamentos
   - Tela de Listagem de Clientes
+
+## Tabelas
+### Estoque
+  - Tabela de Produtos
+  - Tabela de Fornecedores
+### Prestação de Serviços
+  - Tabela de Clientes
+  - Tabela de Serviços
+  - Tabela de Funcionários
+
