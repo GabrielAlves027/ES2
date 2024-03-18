@@ -17,28 +17,29 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 <br>[https://github.com/Milenxsz/ES2/blob/main/Doc%20-%20ES2%20-%20Gestão%20de%20microempreendedores](https://github.com/Milenxsz/ES2/blob/main/Doc/Modelo_de_Negocio.md)</br>
 
 ### Back-end:
-<br>Java-Spring</br>
+Java-Spring
+
 
 ### Mobile:
-<br>React Native</br>
+React Native
 
 
 ### Front-end:
-<br>HTML5</br>
-<br>CSS3</br>
-<br>JavaScript</br>
-<br>React.js</br>
+HTML5
+CSS3
+JavaScript
+React.js
 
 ### Banco de Dados:
-<br>SQLDeveloper</br>
-<br>Oracle Database</br>
+SQLDeveloper
+Oracle Database
 
 ### Ferramentas de Desenvolvimento:
-<br>Android Studio</br>
-<br>VS Code</br>
-<br>GitHub</br>
-<br>Git Bash</br>
-<br>BRmodelo</br>
+Android Studio
+VS Code
+GitHub
+Git Bash
+BRmodelo
 
 
 ## Casos de uso
