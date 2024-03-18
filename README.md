@@ -43,25 +43,26 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 
 ## Casos de uso
 ### Controle de Estoque
-- Monitoramento de estoque
-- Ponto de Pedido
-- Fichas de estoque
-- Gerar inventário 
+  - Monitoramento de estoque
+  - Ponto de Pedido
+  - Fichas de estoque
+  - Gerar inventário 
     	
 ### Gestão Financeira
-- Registrar transações
-- Emitir Boleto e Nota Fiscal
-- Acessar dados de contabilidade
+  - Registrar transações
+  - Emitir Boleto e Nota Fiscal
+  - Acessar dados de contabilidade
+  - Demonstração de Resultado do Exercício
  
  ### Gestão de Clientes
-- Busca de cliente ideal
-- Monitorar Clientes
-- Realizar Agendamentos
+  - Busca de cliente ideal
+  - Monitorar Clientes
+  - Realizar Agendamentos
 
   ### Tomada de decisão
   - Relatorio de compra e venda
-   - Relatório Produto-Fornecedor
- - Demonstração de Resultado do Exercício
+  - Relatório Produto-Fornecedor
+
 
   ## Telas
 ### Aplicação
@@ -71,34 +72,51 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
   - Tela Principal/Home
   - Tela Inicial da Aplicação WEB
 ### Estoque
-  - Tela de Cadastro de Produto
-  - Tela de Cadastro de Fornecedor
-  - Tela de Ficha de Estoque
-  - Tela de Ponto de Pedido
-  - Tela de Inventário
+ - Tela de Cadastro de Produto
+ - Tela de Cadastro de Fornecedor
+ - Tela de Ficha de Estoque
+ - Tela de Ponto de Pedido
+ - Tela de Inventário
 ### Financeiro e Tomada de Decisão
-  - Tela de Dados Contábeis
-    - Balancete de Verificação
-    - Balanço Patrimonial
-  - Tela de Demonstração de Resultado do Exercício
-  - Tela dos Relatórios
-    - Relatório de Compra e Venda
-    - Relatório de Produto/Fornecedor
-  - Tela de Registro de Transações
-  - Tela para Emissão de Boletos e Geração de Notas Fiscais
+ - Tela de Dados Contábeis
+ - Balancete de Verificação
+ - Balanço Patrimonial
+ - Tela de Demonstração de Resultado do Exercício
+ - Tela dos Relatórios
+   - Relatório de Compra e Venda
+   - Relatório de Produto/Fornecedor
+ - Tela de Registro de Transações
+ - Tela para Emissão de Boletos e Geração de Notas Fiscais
 ### Prestação de Serviços
-  - Tela de Cadastro de Clientes
-  - Tela de Cadastro de Serviços
-  - Tela de Agendamentos
-  - Tela de Cosnulta de Agendamentos
-  - Tela de Listagem de Clientes
+ - Tela de Cadastro de Clientes
+ - Tela de Cadastro de Serviços
+ - Tela de Agendamentos
+ - Tela de Cosnulta de Agendamentos
+ - Tela de Listagem de Clientes
 
 ## Tabelas
 ### Estoque
-  - Tabela de Produtos
-  - Tabela de Fornecedores
+ - Tabela de Produtos
+ - Tabela de Fornecedores
 ### Prestação de Serviços
-  - Tabela de Clientes
-  - Tabela de Serviços
-  - Tabela de Funcionários
+ - Tabela de Clientes
+ - Tabela de Serviços
+ - Tabela de Funcionários
+
+## Relatórios
+### Estoque
+ - Relatório de ficha de estoque
+
+### Financeiro
+ - Relatório de demonstração de resultados do exercício
+ - Relatório de balanço
+
+### Tomada de decisão
+ - Relatorio de compra e venda
+ - Relatório Produto-Fornecedor
+
+### Gestão de clientes
+ - Relatório de prospecção de cliente ideal
+   
+
 
