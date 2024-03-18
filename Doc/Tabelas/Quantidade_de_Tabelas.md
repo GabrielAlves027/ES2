@@ -6,3 +6,5 @@
   - Tabela de Clientes
   - Tabela de Serviços
   - Tabela de Funcionários
+## Financeiro
+  - Tabela de Nota fiscal
