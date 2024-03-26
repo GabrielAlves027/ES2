@@ -5,7 +5,6 @@
 <br>Gabriel Alves Rodrigues (GabrielAlves027)</br>
 <br>Ítalo Béllo Silva (Lflickr)</br>
 <br>Kaike Freitas de França (KaikeFF)</br>
-<br>Milena Sophia Sandes Mota Barreto (Milenxsz) </br>
 
 ## Tema
 <br>Sistema de gestão para microempreendedores
@@ -14,7 +13,7 @@ Um sistema de gestão para microempreendedor deve ser acessível, intuitivo e ab
 
 ## Modelo de Negocio
 
-<br>[https://github.com/Milenxsz/ES2/blob/main/Doc%20-%20ES2%20-%20Gestão%20de%20microempreendedores](https://github.com/ARMCardoso/ES2/blob/main/Doc/Modelo_de_Negocio.md)</br>
+<br>[Modelo de Negócio](https://github.com/ARMCardoso/ES2/blob/main/Doc/Modelo_de_Negocio.md)</br>
 
 ## Tecnologias Utilizadas
 ### Back-end:
