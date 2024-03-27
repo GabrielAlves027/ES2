@@ -1,4 +1,4 @@
-@startuml "use-cases"
+@startuml
 left to right direction
 actor Cliente as C
 actor Admin as A
@@ -16,8 +16,8 @@ package Schedule{
   usecase "Relatório compra-venda" as UC9
   usecase "Relatório DRE" as UC10
 }
-C <|-right- S
-C <|-right- V
+C <|-left- S
+C <|-left- V
 A --> UC1
 A --> UC2
 A --> UC5
@@ -27,7 +27,7 @@ S --> UC3
 S --> UC4
 C --> UC1
 C --> UC2
-(UC7) .up.> (UC8)
-(UC7) .up.> (UC9)
-(UC7) .up.> (UC10)
+(UC7) .down.> (UC8)
+(UC7) .down.> (UC9)
+(UC7) .down.> (UC10)
 @enduml
