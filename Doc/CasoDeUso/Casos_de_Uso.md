@@ -1,22 +1,16 @@
 # Casos de uso
 ## Controle de Estoque
-	- Monitoramento de estoque
- 	- Ponto de Pedido
-  	- Fichas de estoque
-   	- Gerar inventário 
-    	
+  - Monitoramento de estoque
 ## Gestão Financeira
-	- Registrar transações
-	- Emitir Boleto e Nota Fiscal
-	- Acessar dados de contabilidade
+  - Registrar transações
+  - Demonstração de Resultado do Exercício
+  - Controle de Caixa
+## Gestão de Clientes
+  - Monitorar Clientes
+  - Realizar Agendamentos
+  - Cancelar Agendamentos
+  - Assinaturas e Pacotes
  
- ## Gestão de Clientes
-	- Busca de cliente ideal
- 	- Monitorar Clientes
-  	- Realizar Agendamentos
-   	- Relatório de Listagem de Clientes
-
   ## Tomada de decisão
-  	- Relatorio de compra e venda
-   	- Relatório Produto-Fornecedor
- 	- Demonstração de Resultado do Exercício
+  - Relatório de compra e venda
+  - Relatório de clientes
