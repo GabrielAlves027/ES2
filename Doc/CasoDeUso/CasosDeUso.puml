@@ -18,16 +18,16 @@ package Schedule{
 }
 C <|-left- S
 C <|-left- V
-A --> UC1
-A --> UC2
-A --> UC5
-A --> UC6
-A --> UC7
-S --> UC3
-S --> UC4
-C --> UC1
-C --> UC2
-(UC7) .down.> (UC8)
-(UC7) .down.> (UC9)
-(UC7) .down.> (UC10)
+A -- UC1
+A -- UC2
+A -- UC5
+A -- UC6
+A -- UC7
+S -- UC3
+S -- UC4
+C -- UC1
+C -- UC2
+(UC7) <|-- (UC8)
+(UC7) <|-- (UC9)
+(UC7) <|-- (UC10)
 @enduml
