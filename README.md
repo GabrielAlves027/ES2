@@ -102,3 +102,8 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ### Tomada de decisão
 - Relatorio de compra e venda
 - Relatório de Clientes
+
+
+## Diagramas:
+### Caso de Usos:
+![Caso de Uso](Doc/CasoDeUso/CasoDeUso/CasosDeUso.png)
