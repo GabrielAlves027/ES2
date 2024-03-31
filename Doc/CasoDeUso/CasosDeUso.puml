@@ -15,6 +15,8 @@ package Schedule{
   usecase "Relatório clientes" as UC8
   usecase "Relatório compra-venda" as UC9
   usecase "Relatório DRE" as UC10
+  usecase "Criar Pacote" as UC11
+  usecase "Excluir Pacote" as UC12
 }
 C <|-left- S
 C <|-left- V
@@ -27,6 +29,8 @@ S -- UC3
 S -- UC4
 C -- UC1
 C -- UC2
+A -- UC11
+A -- UC12
 (UC7) <|-- (UC8)
 (UC7) <|-- (UC9)
 (UC7) <|-- (UC10)
