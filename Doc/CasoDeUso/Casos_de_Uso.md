@@ -9,7 +9,10 @@
   - Monitorar Clientes
   - Realizar Agendamentos
   - Cancelar Agendamentos
-  - Assinaturas e Pacotes
+  - Criar Pacote
+  - Excluir Pacotes
+  - Assinar Pacote
+  - Cancelar assinatura
  
   ## Tomada de decisão
   - Relatório de compra e venda
