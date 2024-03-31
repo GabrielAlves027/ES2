@@ -5,6 +5,7 @@
   - Registrar transações
   - Demonstração de Resultado do Exercício
   - Controle de Caixa
+  - Relatório de compra e venda
 ## Gestão de Clientes
   - Monitorar Clientes
   - Realizar Agendamentos
@@ -13,7 +14,5 @@
   - Excluir Pacotes
   - Assinar Pacote
   - Cancelar assinatura
- 
-  ## Tomada de decisão
-  - Relatório de compra e venda
   - Relatório de clientes
+
