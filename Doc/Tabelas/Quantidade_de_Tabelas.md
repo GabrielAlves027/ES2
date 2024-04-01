@@ -4,10 +4,15 @@
 ### Prestação de Serviços
 - Tabela de Clientes
 - Tabela de Serviços
-- Tabela de Prestadores de Serviço
-## Relatórios
+- Tabela de Profissionais
+- Tabela de Pacotes
+- Tabela de Agendamentos
+- Tabela de Transações
+
+# Relatórios
 ### Financeiro
-- Relatório de demonstração de resultados do exercício
+- Relatório DRE
 ### Tomada de decisão
-- Relatorio de compra e venda
+- Relatorio de Compra e Venda
 - Relatório de Clientes
+- Relatório de Pacotes
