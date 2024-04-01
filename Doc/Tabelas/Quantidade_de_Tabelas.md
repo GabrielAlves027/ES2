@@ -8,6 +8,8 @@
 - Tabela de Pacotes
 - Tabela de Agendamentos
 - Tabela de Transações
+  - Compra
+  - Venda
 
 # Relatórios
 ### Financeiro
