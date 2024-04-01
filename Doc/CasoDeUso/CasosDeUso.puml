@@ -13,8 +13,9 @@ package Schedule{
   usecase "Registrar transação" as UC6
   usecase "Gerar relatório" as UC7
   usecase "Relatório clientes" as UC8
-  usecase "Relatório compra-venda" as UC9
+  usecase "Relatório compra e venda" as UC9
   usecase "Relatório DRE" as UC10
+  usecase "Relatório de pacotes" as UC11
 }
 C <|-left- S
 C <|-left- V
@@ -30,4 +31,5 @@ C -- UC2
 (UC7) <|-- (UC8)
 (UC7) <|-- (UC9)
 (UC7) <|-- (UC10)
+(UC7) <|-- (UC11)
 @enduml
