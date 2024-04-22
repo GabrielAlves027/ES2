@@ -3,9 +3,8 @@ left to right direction
 actor Cliente as C
 actor Dono as D
 actor Funcionário as F
+actor Recepcionista as R
 actor Admin as A
-actor Assinante as S
-actor Avulso as V
 package Schedule{
   usecase "Fazer agendamento" as UC1
   usecase "Cancelar agendamento" as UC2
@@ -22,20 +21,25 @@ package Schedule{
   usecase "Contratação de serviços" as UC13
   usecase "Relatório de usuários" as UC14
 }
-C <|-left- S
-C <|-left- V
+A -- UC12
+A -- UC14
+C -- UC3
+C -- UC4
+C -- UC1
+C -- UC2
 D -- UC1
 D -- UC2
 D -- UC5
 D -- UC6
 D -- UC13
 D -- UC7
-S -- UC3
-S -- UC4
-C -- UC1
-C -- UC2
-A -- UC12
-A -- UC14
+R -- UC1
+R -- UC2
+R -- UC6
+R -- UC8
+F -- UC5
+F -- UC8
+
 (UC7) <|-- (UC8)
 (UC7) <|-- (UC9)
 (UC7) <|-- (UC10)
