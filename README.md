@@ -70,7 +70,7 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
   - Tela Principal/Home
   - Tela Inicial da Aplicação WEB
 ### Estoque
-- Tela de Cadastro de Produto para Cotrole de Estoque
+- Tela de Cadastro de Produto para Controle de Estoque
 - Tela de Ficha de Estoque
 ### Financeiro e Tomada de Decisão
 - Tela de Demonstração de Resultado do Exercício
