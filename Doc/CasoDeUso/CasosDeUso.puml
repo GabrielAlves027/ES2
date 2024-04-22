@@ -1,6 +1,8 @@
 @startuml
 left to right direction
 actor Cliente as C
+actor Dono as D
+actor Funcionário as F
 actor Admin as A
 actor Assinante as S
 actor Avulso as V
@@ -16,18 +18,24 @@ package Schedule{
   usecase "Relatório compra e venda" as UC9
   usecase "Relatório DRE" as UC10
   usecase "Relatório de pacotes" as UC11
+  usecase "Registro de compras de serviços" as UC12
+  usecase "Contratação de serviços" as UC13
+  usecase "Relatório de usuários" as UC14
 }
 C <|-left- S
 C <|-left- V
-A -- UC1
-A -- UC2
-A -- UC5
-A -- UC6
-A -- UC7
+D -- UC1
+D -- UC2
+D -- UC5
+D -- UC6
+D -- UC13
+D -- UC7
 S -- UC3
 S -- UC4
 C -- UC1
 C -- UC2
+A -- UC12
+A -- UC14
 (UC7) <|-- (UC8)
 (UC7) <|-- (UC9)
 (UC7) <|-- (UC10)
