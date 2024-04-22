@@ -105,4 +105,4 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 
 ## Diagramas:
 ### Caso de Usos:
-![Caso de Uso](Doc/CasoDeUso/CasoDeUso/CasosDeUso.png)
+![Caso de Uso](Doc/CasoDeUso/CasosDeUso.png)
