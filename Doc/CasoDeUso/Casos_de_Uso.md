@@ -13,6 +13,10 @@
   - Criar Pacote
   - Excluir Pacotes
   - Assinar Pacote
-  - Cancelar assinatura
-  - Relatório de clientes
+  - Cancelar Assinatura
+  - Relatório de Clientes
+## Controle do Sistema
+  - Registro de Compra de Serviços
+  - Contratação de Serviços
+  - Relatório de Usuários
 
