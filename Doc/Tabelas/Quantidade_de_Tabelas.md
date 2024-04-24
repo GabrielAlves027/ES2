@@ -10,6 +10,8 @@
 - Tabela de Transações
   - Compra
   - Venda
+### Administrador
+- Tabela de Usuários
 
 # Relatórios
 ### Financeiro
@@ -18,3 +20,4 @@
 - Relatorio de Compra e Venda
 - Relatório de Clientes
 - Relatório de Pacotes
+- Relatório de Usuários
