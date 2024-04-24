@@ -30,7 +30,7 @@
 - Criar agendamento
 - Cancelar agendamento
 
-##Administrador
+## Administrador
 - Tela inicial administrador
 - Controle de planos
 - Configurar planos
