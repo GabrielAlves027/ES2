@@ -1,5 +1,5 @@
 # Telas
-##Cliente
+## Cliente
 - Tela inicial para o cliente
 - Área de agendamentos para o cliente
 - Escolha do tipo de agendamento
@@ -10,18 +10,18 @@
 - Escolha de pacotes
 - Cancelar agendamento
 
-##Recepcionista
+## Recepcionista
 - Tela inicial da recepção
 - Estoque 
 - Registro de transações
 - Configurações recepção
 
-##Profissional
+## Profissional
 - Tela inicial do profissional
 - Verificar estoque
 - Agendamentos do profissional
 
-##Dono
+## Dono
 - Visão do dono do salão
 - Gerar relatórios
 - Estoque
