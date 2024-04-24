@@ -96,6 +96,8 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 - Tabela de Clientes
 - Tabela de Serviços
 - Tabela de Prestadores de Serviço
+### Administrador
+- Tabela de Usuários
  
 ## Relatórios
 ### Financeiro
@@ -104,6 +106,7 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ### Tomada de decisão
 - Relatorio de compra e venda
 - Relatório de Clientes
+- Relatório de Usuários
 
 
 ## Diagramas:
