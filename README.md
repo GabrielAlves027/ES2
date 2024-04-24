@@ -51,7 +51,6 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
   - Demonstração de Resultado do Exercício
   - Controle de Caixa
   - Relatório de compra e venda
-    
 ### Gestão de Clientes
   - Monitorar Clientes
   - Realizar Agendamentos
@@ -59,8 +58,12 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
   - Criar Pacote
   - Excluir Pacotes
   - Assinar Pacote
-  - Cancelar assinatura
-  - Relatório de clientes
+  - Cancelar Assinatura
+  - Relatório de Clientes
+### Controle do Sistema
+  - Registro de Compra de Serviços
+  - Contratação de Serviços
+  - Relatório de Usuários
  
   ## Telas
 ### Aplicação
