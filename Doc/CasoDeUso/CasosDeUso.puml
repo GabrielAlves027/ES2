@@ -20,6 +20,7 @@ package Schedule{
   usecase "Registro de compras de serviços" as UC12
   usecase "Contratação de serviços" as UC13
   usecase "Relatório de usuários" as UC14
+  usecase "Controle de Planos" as UC15
 }
 A -- UC12
 A -- UC14
@@ -39,6 +40,7 @@ R -- UC6
 R -- UC8
 F -- UC5
 F -- UC8
+A -- UC15
 
 (UC7) <|-- (UC8)
 (UC7) <|-- (UC9)
