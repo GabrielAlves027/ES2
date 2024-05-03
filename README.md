@@ -18,22 +18,15 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ### Back-end:
 - Java-Spring
  
- 
-### Mobile:
-- React Native
- 
- 
 ### Front-end:
 - HTML5
 - CSS3
 - JavaScript
 - React.js
  
- 
 ### Banco de Dados:
 - SQLDeveloper
 - Oracle Database
- 
  
 ### Ferramentas de Desenvolvimento:
 - Android Studio
@@ -49,7 +42,6 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ### Gestão Financeira
   - Registrar transações
   - Demonstração de Resultado do Exercício
-  - Controle de Caixa
   - Relatório de compra e venda
 ### Gestão de Clientes
   - Monitorar Clientes
@@ -110,7 +102,8 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ### Prestação de Serviços
 - Tabela de Clientes
 - Tabela de Serviços
-- Tabela de Prestadores de Serviço
+- Tabela de Profissionais
+- Tablea de Recepcionista
 ### Administrador
 - Tabela de Usuários
  
