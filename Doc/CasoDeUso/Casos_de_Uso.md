@@ -4,7 +4,6 @@
 ## Gestão Financeira
   - Registrar transações
   - Demonstração de Resultado do Exercício
-  - Controle de Caixa
   - Relatório de compra e venda
 ## Gestão de Clientes
   - Monitorar Clientes
