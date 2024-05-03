@@ -31,6 +31,13 @@ Aqui, a recepcionista pode visualizar o estoque atual de produtos disponíveis p
 A recepcionista pode registrar todas as transações financeiras realizadas no salão.
 ### Configurações da Recepcionista:
 Esta tela permite que a recepcionista ajuste as configurações da sua conta e personalize sua experiência de uso da plataforma.
+### Agendar/Cancelar Agendamento:
+A recepcionista acessa esta tela para agendar novos serviços para clientes ou cancelar agendamentos existentes conforme solicitado.
+Ela visualiza os horários disponíveis, seleciona o serviço desejado e reserva o horário para o cliente.
+Também pode cancelar agendamentos existentes, se necessário, com opções para reagendar, se aplicável.
+### Gerar Relatório:
+Esta tela permite que a recepcionista gere relatórios detalhados sobre o desempenho financeiro do salão, análise de vendas de serviços, produtos, agendamentos cancelados, entre outros.
+Esses relatórios podem ser úteis para avaliar o desempenho do salão, identificar tendências e tomar decisões informadas para melhorar os negócios.
 
 ## Profissional:
 
