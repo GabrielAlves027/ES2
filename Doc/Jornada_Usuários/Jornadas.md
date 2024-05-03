@@ -1,1 +1,67 @@
+## Cliente:
 
+### Tela Inicial para o Cliente:
+O cliente faz login na plataforma e é direcionado para sua tela inicial personalizada.
+Aqui, eles podem ver uma visão geral de seus agendamentos futuros, pacotes disponíveis e notificações importantes.
+### Área de Agendamentos para o Cliente:
+O cliente acessa a área de agendamentos para visualizar os horários disponíveis e fazer novas reservas.
+Eles podem escolher o tipo de serviço que desejam agendar e selecionar um profissional disponível.
+### Agendamentos para Cliente:
+Nesta tela, o cliente pode visualizar todos os seus agendamentos passados e futuros.
+Eles têm a opção de verificar detalhes, cancelar ou reagendar agendamentos conforme necessário.
+### Agendar com Pacotes:
+Se o cliente possui pacotes de serviços, eles podem usar esta tela para agendar serviços incluídos nos pacotes disponíveis.
+### Tela de Verificar/Cancelar Agendamentos:
+O cliente pode verificar e cancelar agendamentos existentes nesta tela, com opções para reagendar, se aplicável.
+### Comprar/Cancelar Pacotes:
+Para comprar ou cancelar pacotes de serviços, o cliente acessa esta tela, onde pode ver os pacotes disponíveis e gerenciar suas assinaturas.
+### Escolha de Pacotes:
+Aqui, o cliente pode explorar os diferentes pacotes de serviços oferecidos e escolher o que melhor atende às suas necessidades.
+### Cancelar Agendamento:
+O cliente pode cancelar agendamentos existentes nesta tela, com opções para confirmar a ação.
+
+
+## Recepcionista:
+
+### Tela Inicial da Recepcionista:
+A recepcionista faz login na plataforma e é direcionada para sua tela inicial, onde pode acessar todas as funcionalidades necessárias para gerenciar a recepção.
+### Estoque:
+Aqui, a recepcionista pode visualizar o estoque atual de produtos disponíveis para venda e fazer pedidos de reposição, se necessário.
+### Registro de Transações:
+A recepcionista pode registrar todas as transações financeiras realizadas no salão.
+### Configurações da Recepcionista:
+Esta tela permite que a recepcionista ajuste as configurações da sua conta e personalize sua experiência de uso da plataforma.
+
+## Profissional:
+
+### Tela Inicial do Profissional:
+O profissional faz login na plataforma e é direcionado para sua tela inicial personalizada.
+Aqui, eles podem ver uma visão geral de seus agendamentos futuros, gerenciar sua disponibilidade e visualizar informações importantes.
+### Verificar Estoque:
+O profissional pode acessar esta tela para verificar a disponibilidade de produtos necessários para seus serviços.
+### Agendamentos do Profissional:
+Nesta tela, o profissional pode visualizar todos os seus agendamentos futuros e passados.
+
+## Dono:
+
+### Visão do Dono do Salão:
+O dono faz login na plataforma e é direcionado para sua visão geral personalizada.
+Aqui, eles podem acessar todas as funcionalidades necessárias para gerenciar o salão, incluindo relatórios, estoque e agendamentos.
+### Gerar Relatórios:
+Esta tela permite que o dono gere relatórios detalhados sobre o desempenho financeiro do salão, análise de vendas, entre outros.
+### Registrar/Visualizar Transações:
+O dono pode acessar esta tela para visualizar um registro completo de todas as transações realizadas no salão, bem como registrar novas transações conforme necessário.
+### Relatório de Transações:
+Aqui, o dono pode visualizar relatórios detalhados sobre todas as transações financeiras realizadas no salão, permitindo uma análise abrangente do desempenho financeiro.
+### Criar/Cancelar Agendamento:
+O dono pode criar novos agendamentos para clientes e também cancelar agendamentos existentes conforme necessário.
+
+## Administrador:
+
+### Tela Inicial Administrador:
+O administrador faz login na plataforma e é direcionado para sua tela inicial personalizada.
+Aqui, eles podem acessar todas as funcionalidades administrativas necessárias para gerenciar o Sistema.
+### Controle de Planos:
+Nesta tela, o administrador pode configurar e gerenciar os planos de assinatura oferecidos aos clientes, incluindo preços, recursos e restrições.
+### Configurar Planos:
+O administrador pode acessar esta tela para configurar os detalhes dos planos de assinatura, incluindo preços, períodos de renovação, benefícios e muito mais.
