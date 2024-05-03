@@ -82,6 +82,8 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 - Estoque 
 - Registro de transações
 - Configurações recepção
+- Agendar/Cancelar agendamento
+- Gerar Relatório
 
 ### Profissional
 - Tela inicial do profissional
