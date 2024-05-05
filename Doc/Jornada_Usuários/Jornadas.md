@@ -3,6 +3,7 @@
 ### Tela Inicial para o Cliente:
 O cliente faz login na plataforma e é direcionado para sua tela inicial personalizada.
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/c2e41d7e-9ad7-4e09-923e-13c93b8aeeff)
+
 Aqui, eles podem ver uma visão geral de seus agendamentos, pacotes disponíveis e endereços.
 
 ### Área de Agendamentos para o Cliente:
