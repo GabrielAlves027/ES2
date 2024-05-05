@@ -32,8 +32,12 @@ Para comprar ou cancelar pacotes de serviços, o cliente acessa esta tela, onde 
 
 ### Escolha de Pacotes:
 Aqui, o cliente pode explorar os diferentes pacotes de serviços oferecidos e escolher o que melhor atende às suas necessidades.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/b2e16627-6046-47cc-8334-b87d00dc92b7)
+
+
 ### Cancelar Agendamento:
 O cliente pode cancelar agendamentos existentes nesta tela, com opções para confirmar a ação.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/be33aef0-16a7-478a-8ab4-8194d2ee7053)
 
 
 ## Recepcionista:
