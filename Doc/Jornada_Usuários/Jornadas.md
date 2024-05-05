@@ -20,6 +20,7 @@ Se o cliente possui pacotes de serviços, eles podem usar esta tela para agendar
 
 ### Tela de Verificar/Cancelar Agendamentos:
 O cliente pode verificar e cancelar agendamentos existentes nesta tela.
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/6ba8e12b-7678-4f4b-b04d-f04a555631dd)
 
 
