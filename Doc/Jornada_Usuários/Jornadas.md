@@ -134,7 +134,15 @@ O dono pode criar novos agendamentos para clientes e também cancelar agendament
 ### Tela Inicial Administrador:
 O administrador faz login na plataforma e é direcionado para sua tela inicial personalizada.
 Aqui, eles podem acessar todas as funcionalidades administrativas necessárias para gerenciar o Sistema.
+
+
 ### Controle de Planos:
 Nesta tela, o administrador pode configurar e gerenciar os planos de assinatura oferecidos aos clientes, incluindo preços, recursos e restrições.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/5d512da2-9732-4cf0-8b95-e1f593d210b9)
+
 ### Configurar Planos:
-O administrador pode acessar esta tela para configurar os detalhes dos planos de assinatura, incluindo preços, períodos de renovação, benefícios e muito mais.
+O administrador pode acessar esta tela para configurar os detalhes dos planos de assinatura.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/c715e489-87bd-4f75-b8a7-7277178d6a4a)
+
