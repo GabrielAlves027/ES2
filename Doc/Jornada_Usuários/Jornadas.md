@@ -26,6 +26,7 @@ O cliente pode verificar e cancelar agendamentos existentes nesta tela.
 
 ### Comprar/Cancelar Pacotes:
 Para comprar ou cancelar pacotes de serviços, o cliente acessa esta tela, onde pode ver os pacotes disponíveis e gerenciar suas assinaturas.
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/8cdd7866-96a1-4595-b257-2226d3bb3c03)
 
 
