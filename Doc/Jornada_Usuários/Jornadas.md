@@ -65,6 +65,7 @@ Ela visualiza os horários disponíveis, seleciona o serviço desejado e reserva
 
 
 Também pode cancelar agendamentos existentes, se necessário.
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/0bd1c6f1-f330-4fb2-8878-13e096585199)
 
 
@@ -79,25 +80,54 @@ Esses relatórios podem ser úteis para avaliar o desempenho do salão, identifi
 
 ### Tela Inicial do Profissional:
 O profissional faz login na plataforma e é direcionado para sua tela inicial personalizada.
-Aqui, eles podem ver uma visão geral de seus agendamentos futuros, gerenciar sua disponibilidade e visualizar informações importantes.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/7833d19d-aa99-4cf8-bd4a-7ebea272b796)
+
+
 ### Verificar Estoque:
 O profissional pode acessar esta tela para verificar a disponibilidade de produtos necessários para seus serviços.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/5f3a6b39-ce6b-4fb8-9d03-7c0f9a7baa69)
+
+
 ### Agendamentos do Profissional:
 Nesta tela, o profissional pode visualizar todos os seus agendamentos futuros e passados.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/7995d03c-ae7a-422d-82fd-238fa5ab4fbe)
+
 
 ## Dono:
 
 ### Visão do Dono do Salão:
 O dono faz login na plataforma e é direcionado para sua visão geral personalizada.
 Aqui, eles podem acessar todas as funcionalidades necessárias para gerenciar o salão, incluindo relatórios, estoque e agendamentos.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/14694925-6018-4dd1-a202-e60a68e7eb98)
+
+
 ### Gerar Relatórios:
 Esta tela permite que o dono gere relatórios detalhados sobre o desempenho financeiro do salão, análise de vendas, entre outros.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/d6858e1a-34cf-4fc2-be01-748cb412ef83)
+
+
 ### Registrar/Visualizar Transações:
 O dono pode acessar esta tela para visualizar um registro completo de todas as transações realizadas no salão, bem como registrar novas transações conforme necessário.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/4d79f260-4f7f-455d-a3b0-83f8c776817b)
+
+
+
 ### Relatório de Transações:
 Aqui, o dono pode visualizar relatórios detalhados sobre todas as transações financeiras realizadas no salão, permitindo uma análise abrangente do desempenho financeiro.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/32572812-5511-45e6-86e9-14b126613f17)
+
+
 ### Criar/Cancelar Agendamento:
 O dono pode criar novos agendamentos para clientes e também cancelar agendamentos existentes conforme necessário.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/baee69e5-405a-47e6-bdb4-af3e58131421)
+
 
 ## Administrador:
 
