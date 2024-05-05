@@ -134,6 +134,7 @@ O dono pode criar novos agendamentos para clientes e também cancelar agendament
 ### Tela Inicial Administrador:
 O administrador faz login na plataforma e é direcionado para sua tela inicial personalizada.
 Aqui, eles podem acessar todas as funcionalidades administrativas necessárias para gerenciar o Sistema.
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/5d512da2-9732-4cf0-8b95-e1f593d210b9)
 
 
