@@ -44,19 +44,36 @@ O cliente pode cancelar agendamentos existentes nesta tela, com opções para co
 
 ### Tela Inicial da Recepcionista:
 A recepcionista faz login na plataforma e é direcionada para sua tela inicial, onde pode acessar todas as funcionalidades necessárias para gerenciar a recepção.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/755041a9-5dcf-4cab-bf3f-bb2e6fa500f0)
+
+
 ### Estoque:
 Aqui, a recepcionista pode visualizar o estoque atual de produtos disponíveis para venda e fazer pedidos de reposição, se necessário.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/627482e4-98bd-4dc0-9442-a125621b8452)
+
+
 ### Registro de Transações:
 A recepcionista pode registrar todas as transações financeiras realizadas no salão.
-### Configurações da Recepcionista:
-Esta tela permite que a recepcionista ajuste as configurações da sua conta e personalize sua experiência de uso da plataforma.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/e57e7a58-3c0a-4668-a35a-9d8b34481c29)
+
+
 ### Agendar/Cancelar Agendamento:
 A recepcionista acessa esta tela para agendar novos serviços para clientes ou cancelar agendamentos existentes conforme solicitado.
 Ela visualiza os horários disponíveis, seleciona o serviço desejado e reserva o horário para o cliente.
-Também pode cancelar agendamentos existentes, se necessário, com opções para reagendar, se aplicável.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/a75c3546-5e3f-46f3-8ad1-9a5cb4e7e3dc)
+
+
+Também pode cancelar agendamentos existentes, se necessário.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/0bd1c6f1-f330-4fb2-8878-13e096585199)
+
+
 ### Gerar Relatório:
 Esta tela permite que a recepcionista gere relatórios detalhados sobre o desempenho financeiro do salão, análise de vendas de serviços, produtos, agendamentos cancelados, entre outros.
 Esses relatórios podem ser úteis para avaliar o desempenho do salão, identificar tendências e tomar decisões informadas para melhorar os negócios.
+
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/2ad8e3eb-8f02-4d07-bb93-e6de963e8779)
+
 
 ## Profissional:
 
