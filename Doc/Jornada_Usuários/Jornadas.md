@@ -4,11 +4,15 @@
 O cliente faz login na plataforma e é direcionado para sua tela inicial personalizada.
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/c2e41d7e-9ad7-4e09-923e-13c93b8aeeff)
 
-Aqui, eles podem ver uma visão geral de seus agendamentos, pacotes disponíveis e endereços.
+Aqui, eles podem ver uma visão geral de seus agendamentos, pacotes disponíveis e endereços dos salões.
 
 ### Área de Agendamentos para o Cliente:
 O cliente acessa a área de agendamentos para visualizar os horários disponíveis e fazer novas reservas.
-Eles podem escolher o tipo de serviço que desejam agendar e selecionar um profissional disponível.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/d8d306b4-0ecf-4377-8ddd-a5b3107cb918)
+
+Eles podem escolher o tipo de serviço que desejam agendar e selecionar o tipo de agendamento.
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/b7fbf698-6d63-43d7-8ed0-e90d47a79782)
+
 ### Agendamentos para Cliente:
 Nesta tela, o cliente pode visualizar todos os seus agendamentos passados e futuros.
 Eles têm a opção de verificar detalhes, cancelar ou reagendar agendamentos conforme necessário.
