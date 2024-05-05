@@ -8,7 +8,7 @@ Aqui, eles podem ver uma visão geral de seus agendamentos, pacotes disponíveis
 
 ### Área de Agendamentos para o Cliente:
 O cliente acessa a área de agendamentos para visualizar os horários disponíveis e fazer novas reservas.
-![image](https://github.com/ARMCardoso/ES2/assets/103678227/d8d306b4-0ecf-4377-8ddd-a5b3107cb918)
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/50de34e3-4181-4da0-92de-5fccc4d343d1)
 
 Eles podem escolher o tipo de serviço que desejam agendar e selecionar o tipo de agendamento.
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/b7fbf698-6d63-43d7-8ed0-e90d47a79782)
@@ -20,6 +20,7 @@ Se o cliente possui pacotes de serviços, eles podem usar esta tela para agendar
 
 ### Tela de Verificar/Cancelar Agendamentos:
 O cliente pode verificar e cancelar agendamentos existentes nesta tela.
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/6ba8e12b-7678-4f4b-b04d-f04a555631dd)
 
 
