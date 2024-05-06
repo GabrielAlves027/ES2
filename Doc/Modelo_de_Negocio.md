@@ -18,16 +18,16 @@ No nicho de salões de beleza e barbearias, o aplicativo de sistema de gestão e
 Essas plataformas possuem histórico estabelecido e são reconhecidas pela sua eficácia na gestão operacional dos salões de beleza e barbearias. Além disso, concorrentes mais especializados, como o Simple Salon e o Shortcuts, podem representar desafios significativos, oferecendo soluções adaptadas e altamente específicas para esse segmento.
 
 	- Faturamento mínimo/Ponto de equilíbrio:
-Custo inicial de Desenvolvimento: R$60.000,00
-Custos Fixos Mensais: R$4.000,00
+Custo inicial de Desenvolvimento: R$6000,00
+Custos Fixos Mensais: R$400,00
 Custo Variável por Cliente: R$30,00 (considerando custos de aquisição de clientes, marketing, etc.)
-Preço da Assinatura Mensal por Salão (unidade): R$500,00
+Preço da Assinatura Mensal por Salão (unidade): R$50,00
 Número de Clientes Iniciais Totais: 100 
 Taxa de novos clientes ao mês: 2%
 Média de salões por cliente: 2
 
 Assinatura Mensal:
-Preço da Assinatura Mensal por Salão (unidade): R$500,00
+Preço da Assinatura Mensal por Salão (unidade): R$50,00
 Número de Clientes Mensais Iniciais: 100
 Aumento de 2% no número de clientes a cada mês
 Para cada mês:
@@ -39,16 +39,16 @@ Mês 1:
 Assinatura Mensal:
 Novos clientes mensais: 2% de 100 = 2
 Número total de clientes mensais: 100 + 2 = 102
-Receita total do mês: 102 * R$500,00 * 2 = R$102.000,00
+Receita total do mês: 102 * R$50,00 * 2 = R$10.200,00
 
 Prejuízo Inicial (Primeiro Mês):
-Receita primeiro mês: R$102.000,00
-Custo Inicial: Gasto do desnevolvimento + gasto mensal + (numero de cliente * gasto por cliente)
-Custo Inicial = 60000 + 4000 + 102 * 30 = R$67.060,00
+Receita primeiro mês: R$10.200,00
+Custo Inicial: Custo inicial de Desenvolvimento + Custos Fixos Mensais + (Número de Clientes * Custo Variável por Cliente)
+Custo Inicial = 6000 + 400 + 102 * 30 = R$9.460,00
 Lucro/Prejuízo Inicial =  Receita do mês - Custo inicial
-Lucro/Prejuízo Inicial =  R$102.000,00 - R$67.060,00 = R$34.940,00
+Lucro/Prejuízo Inicial =  R$10.200,00 - R$9.460,00 = R$740,00
 
-Levando em conta o gasto de R$30,00 para cada cliente, R$4.000,00 de despesas fixas e a assinatura mensal por unidade de salão de R$500,00 a margem de contribuição é de R$470,00.
-Considerando R$60.000,00 de custo de desenvolvimento, somaremos com os valores mensais de despesas e teremos o valor de R$64.000,00 de custo fixo.
-Dividindo o valor de R$64.000,00 por R$470,00 de margem de lucro teremos que será necessário 136 assinaturas vendidas para chegar ao ponto de equilíbrio.
-Levando em consideração que o numero de clientes cresce em 2% no mês, para chegar em 136 assinaturas, será necessário 16 meses.
+Levando em conta o gasto de R$30,00 para cada cliente, R$400,00 de despesas fixas e a assinatura mensal por unidade de salão de R$50,00 a margem de contribuição é de R$480,00.
+Considerando R$6.000,00 de custo de desenvolvimento, somaremos com os valores mensais de despesas e teremos o valor de R$6.400,00 de custo fixo.
+Dividindo o valor de R$6.400,00 por R$480,00 de margem de lucro teremos que será necessário 137 assinaturas vendidas para chegar ao ponto de equilíbrio.
+Levando em consideração que o numero de clientes cresce em 2% no mês, para chegar em 137 assinaturas, será necessário 16 meses.
