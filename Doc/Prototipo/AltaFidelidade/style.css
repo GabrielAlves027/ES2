@@ -1,0 +1,21 @@
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+
+.form-floating{
+    width: 500px;
+    margin: 10px;
+}
+/* #floatingInput{
+    width: 500px;
+}
+#floatingPassword{
+    width: 500px;
+} */
