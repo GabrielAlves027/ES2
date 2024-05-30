@@ -144,3 +144,4 @@ RegistroEstoque o-- "1..1" Item
 
 Admin *-- "1..*" Plano
 
+@enduml

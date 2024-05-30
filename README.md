@@ -121,4 +121,4 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ![Caso de Uso](Doc/CasoDeUso/CasosDeUso.png)
 
 ### Diagrama de Classes:
-![Classes](Doc/Diagrama%20de%20Classes/Classes.png)
+![Classes](Doc/DiagramaDeClasses/Classes.png)
