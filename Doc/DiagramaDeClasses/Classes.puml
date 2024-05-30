@@ -1,0 +1,147 @@
+@startuml ""
+
+class DonoSalao{
+    senha
+    email
+    telefone
+}
+
+class DonoPJ{
+    CNPJ
+    razaoSocial
+}
+
+class DonoPF{
+    CPF
+    nome
+}
+
+class Pacote{
+    valor
+    descricao
+    nome
+    duracao
+}
+
+class Servico{
+    valor
+    nome
+    duracao
+}
+
+class Agendamento{
+    data
+    horario
+}
+
+class cliente{
+    CPF
+    nome
+    senha
+    email
+}
+
+class Salao{
+    nome
+    CEP
+    bairro
+    rua
+    numero
+    complemento
+}
+
+class RegistroEstoque{
+    data
+    quantidadeDeItem
+    entradaSaida
+}
+
+class Item{
+    marca
+    unidadeMedida
+}
+
+class Funcionario{
+    telefone
+    nome
+    CPF
+    rua
+    bairro
+    CEP
+    numero
+    complemento
+    senha
+}
+
+class Profissional{
+
+}
+
+class Recepcionista{
+
+}
+
+class Transacao{
+    data
+    valor
+    horario
+}
+
+class Plano{
+    valor
+    descricao
+    quantidadeDeSaloes
+    duracao
+}
+
+class Admin{
+    nome
+    email
+    senha
+}
+
+class Cartao{
+    numero
+    CVV
+    dataValidade
+}
+
+class Depoimento{
+    avaliacao
+    texto
+}
+
+DonoSalao <|-- DonoPF 
+DonoSalao <|-- DonoPJ
+DonoSalao o-- "0..*" Pacote
+DonoSalao o-- "1..1" Plano
+DonoSalao o-- "0..*" Depoimento
+DonoSalao *-- "1..*" Cartao
+DonoSalao *-- "1..*" Salao
+
+Salao o-- "1..*" RegistroEstoque
+Salao o-- "1..*" Funcionario
+
+Pacote o-- "1..*" Servico
+
+Servico "1..*" -- "0..*" Item
+Servico "1..*" -- "1..1" Transacao
+
+Transacao "0..1" -- "1..1" Recepcionista
+Transacao "1..*" -- "1..1" cliente
+
+Agendamento o-- "1..*" Servico
+
+cliente o-- "0..*" Agendamento
+cliente o-- "0..*" Pacote
+
+Funcionario <|-- Profissional
+Funcionario <|-- Recepcionista
+
+Profissional o-- "0..*" Servico
+
+RegistroEstoque o-- "1..1" Item
+
+Admin *-- "1..*" Plano
+
+@enduml
