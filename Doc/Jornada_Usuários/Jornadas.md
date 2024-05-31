@@ -12,6 +12,10 @@ O profissional do Salão deverá ser cadastrado a partir da tela:
 
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/a62d04e1-533a-49f5-826c-0d4736a5b8e3)
 
+###Login:
+Todos os Usuários do sistema (Dono, Admin, Cliente, Recepcionista e Profissional) tem a mesma tela de login, que direcionará para seus respectivos acessos:
+![image](https://github.com/ARMCardoso/ES2/assets/103678227/a4b69f5f-11dc-4dc2-9149-b18ad0178d5a)
+
 
 
 ## Cliente:
