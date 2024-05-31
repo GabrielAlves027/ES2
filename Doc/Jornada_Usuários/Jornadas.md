@@ -1,12 +1,15 @@
 ## Pré:
 ### Cadastro:
 O cliente do Sistema (Dono de salão) deverá ser cadastrado a partir da tela:
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/8c802ddb-d0a0-4c05-9e3d-4c7414f7eda9)
 
 O cliente do Salão deverá ser cadastrado a partir da tela:
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/17913084-aefd-4d2e-9222-e48d66cad7e3)
 
 O profissional do Salão deverá ser cadastrado a partir da tela: 
+
 ![image](https://github.com/ARMCardoso/ES2/assets/103678227/a62d04e1-533a-49f5-826c-0d4736a5b8e3)
 
 
