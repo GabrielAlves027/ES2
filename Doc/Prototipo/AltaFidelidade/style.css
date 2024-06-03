@@ -6,12 +6,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
 .caixa-login{
         width: 500px;  
-        height: 250px;
+        height: 330px;
         background-color: #ffffff;
         display: flex;
         flex-direction: column;
