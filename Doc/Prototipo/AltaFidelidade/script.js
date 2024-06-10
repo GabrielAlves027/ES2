@@ -30,23 +30,23 @@ function validateEmail(email){
 function login(){
     const loginemail = document.getElementById("email").value;
     if(loginemail === "funcionario@gmail.com"){
-        window.location.href = "homefuncionario.html";
+        window.location.href = "./Funcionario/homefuncionario.html";
     }
 
     if(loginemail === "recepcionista@gmail.com"){
-        window.location.href = "homerecepcionista.html";
+        window.location.href = "./Recepcionista/homerecepcionista.html";
     }
 
     if(loginemail === "dono@gmail.com"){
-        window.location.href = "homedono.html";
+        window.location.href = "./Dono/homedono.html";
     }
 
     if(loginemail === "cliente@gmail.com"){
-        window.location.href = "homecliente.html";
+        window.location.href = "./Cliente/homecliente.html";
     }
 
     if(loginemail === "administrador@gmail.com"){
-        window.location.href = "homeadministrador.html";
+        window.location.href = "./Administrador/homeadministrador.html";
     }
 
     if(loginemail !== "funcionario@gmail.com" && loginemail !== "recepcionista@gmail.com" && loginemail 
