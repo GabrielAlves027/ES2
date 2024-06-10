@@ -26,3 +26,7 @@ function isEmailValid(){
 function validateEmail(email){
     return /\S+@\S+\.\S+/.test(email);
 }
+
+function login(){
+    window.location
+}
