@@ -54,3 +54,10 @@ function login(){
         alert("Essa conta é inexistente!");
     }
 }
+
+const botao = document.querySelector(".dropbutton");
+const elementoPlataformas = document.querySelector(".dropbutton .options-drop");
+
+botao.addEventListener("click", () => {
+    elementoPlataformas.classList.toggle("ativo");
+});
