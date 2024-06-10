@@ -122,3 +122,9 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 
 ### Diagrama de Classes:
 ![Classes](Doc/DiagramaDeClasses/Classes.png)
+
+### Modelo Conceitual do Banco de Dados
+![Conceitual](Doc/BancoDeDados/ModeloConceitual.png)
+
+### Modelo Logico do Banco de Dados
+![Logico](Doc/BancoDeDados/ModeloLogico.png)
