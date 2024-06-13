@@ -140,25 +140,8 @@
     cursor: initial;
 }
 
-.dropbutton{
-    color: #000;
-    width: 100%;
-    cursor: pointer;
-}
-
-.dropbutton .options-drop{
-    margin-top: 10px;
-    display: left;
-    flex-direction: column;
-    gap: 20px;
-    transition: all .3s ease-in;
-    display: none;
-    opacity: 0;
-}
-
-.dropbutton .options-drop.ativo{
-    display: flex;
-    opacity: 1;
+.btn-secondary{
+    cursor: initial;
 }
 
 #table1{
