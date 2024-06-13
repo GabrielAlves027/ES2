@@ -14,6 +14,27 @@
     border: 2px solid #000;
 }
 
+.container-fluid5{
+    margin: 10px;
+    padding: 10px;
+}
+
+.start-date{
+    margin-bottom: 15px;
+}
+
+.finish-date{
+    margin-top: 15px;
+}
+
+#btn-relatorio{
+    margin-top: 30px;
+}
+
+#btn-novorelatorio{
+    margin-top: 30px;
+}
+
 .slider{
     margin: 0 auto;
     width: 800px;
@@ -138,4 +159,31 @@
 .dropbutton .options-drop.ativo{
     display: flex;
     opacity: 1;
+}
+
+#table1{
+    width: 100%;
+    margin-top: 10px;
+}
+
+#table2{
+    width: 100%;
+}
+
+#table3{
+    width: 100%;
+}
+
+table, th{
+    border: 3px solid;
+}
+
+tr:hover{
+    background-color:lightgray;
+}
+
+td{
+    border: 2px solid;
+    height: 80px;
+    text-align: left;
 }
