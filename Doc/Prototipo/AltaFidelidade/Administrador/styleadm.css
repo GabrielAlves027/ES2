@@ -19,6 +19,18 @@
     padding: 10px;
 }
 
+/* #gerar-relatorios{
+    width: 500px;  
+    height: 330px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    gap: 20px;
+} */
+
 .start-date{
     margin-bottom: 15px;
 }
@@ -169,4 +181,12 @@ td{
     border: 2px solid;
     height: 80px;
     text-align: left;
+}
+
+#label1{
+    height: 50px;
+}
+
+#label2{
+    height:150px;
 }
