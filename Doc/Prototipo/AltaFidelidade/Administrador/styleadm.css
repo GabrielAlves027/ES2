@@ -161,6 +161,10 @@
     margin-top: 10px;
 }
 
+.container-fluid #table1{
+    overflow-y: scroll;
+}
+
 #table2{
     width: 100%;
 }
@@ -189,4 +193,17 @@ td{
 
 #label2{
     height:150px;
+}
+
+.titulo-admin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
 }

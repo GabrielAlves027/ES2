@@ -1,0 +1,24 @@
+.mb-3{
+    margin: 10px;
+}
+
+.form-check{
+    margin: 10px;
+}
+
+.btn-posicao{
+    margin: 10px;
+}
+
+.btn-posicao-center{
+    justify-content: center;
+    display: flex;
+    margin-top: 5px;
+}
+
+.img-posicao{
+    margin-top: 10px ;
+    justify-content: center;
+    display: flex;
+}
+
