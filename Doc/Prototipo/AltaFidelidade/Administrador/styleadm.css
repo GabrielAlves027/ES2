@@ -2,8 +2,10 @@ body{
     background-color: lightblue;
 }
 
-.container-fluid{
-    background-color: white;
+.container-table{
+   background-color: white;
+   width: 95%;
+   padding: 0;
 }
 
 .container-fluid2{
