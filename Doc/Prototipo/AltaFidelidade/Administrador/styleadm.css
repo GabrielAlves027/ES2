@@ -1,5 +1,18 @@
+body{
+    background-color: lightblue;
+}
+
+.container-fluid{
+    background-color: white;
+}
+
 .container-fluid2{
-    margin: 10px;
+    margin: 10px
+}
+
+.card-planos{
+    display: flex;
+    justify-content: center;
 }
 
 .container-fluid3{
@@ -206,4 +219,13 @@ td{
 .card-title{
     display: flex;
     justify-content: center;
+}
+
+.tipo-plano{
+    display: flex;
+    justify-content: center;
+}
+
+.col{
+    margin-top: 10px;
 }
