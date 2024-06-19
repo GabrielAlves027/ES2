@@ -31,8 +31,16 @@
     margin-top: 32px;
 }
 
+#botao-cadastro{
+    margin-top: 10px;
+}
+
 #botao-mudar{
     margin-top: 15px;
+}
+
+#botao-remover{
+    margin-bottom: 10px;
 }
 
 #table1{
