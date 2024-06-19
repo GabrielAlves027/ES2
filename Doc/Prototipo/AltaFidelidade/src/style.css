@@ -10,7 +10,7 @@
 
 .caixa-login{
         width: 500px;  
-        height: 330px;
+        height: 380px;
         background-color: #ffffff;
         display: flex;
         flex-direction: column;
@@ -18,6 +18,7 @@
         border-radius: 10px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         gap: 20px;
+        padding: 15px;
 } 
   
 .form-floating{
@@ -44,4 +45,25 @@
 .dropbutton .options-drop.ativo{
     display: flex;
     opacity: 1;
+}
+
+.tela-cadastro{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #E6CB96;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa-cadastro{
+    width: 900px;
+    height: 410px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
 }

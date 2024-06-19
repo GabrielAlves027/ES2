@@ -61,3 +61,7 @@ const elementoPlataformas = document.querySelector(".dropbutton .options-drop");
 botao.addEventListener("click", () => {
     elementoPlataformas.classList.toggle("ativo");
 });
+
+function Cadastrar(){
+    alert("Conta criada com êxito.");
+}
