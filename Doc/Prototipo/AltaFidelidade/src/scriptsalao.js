@@ -27,28 +27,25 @@ function validateEmail(email){
     return /\S+@\S+\.\S+/.test(email);
 }
 
-function login(){
+function Login(){
     const loginemail = document.getElementById("email").value;
     
-    if(loginemail === "dono@gmail.com"){
-        window.location.href = "./Dono/homedono.html";
+    if(loginemail === "funcionario@gmail.com"){
+        window.location.href = "./Funcionario/homefuncionario.html";
     }
 
-    if(loginemail === "administrador@gmail.com"){
-        window.location.href = "./Administrador/homeadministrador.html";
+    if(loginemail === "recepcionista@gmail.com"){
+        window.location.href = "./Recepcionista/homerecepcionista.html";
     }
 
-    if(loginemail !== "dono@gmail.com" && loginemail !== "administrador@gmail.com"){
+    if(loginemail === "cliente@gmail.com"){
+        window.location.href = "./Cliente/homecliente.html";
+    }
+
+    if(loginemail !== "cliente@gmail.com" && loginemail !== "recepcionista@gmail.com" && loginemail !== "funcionario@gmail.com"){
         alert("Essa conta é inexistente!");
     }
 }
-
-const botao = document.querySelector(".dropbutton");
-const elementoPlataformas = document.querySelector(".dropbutton .options-drop");
-
-botao.addEventListener("click", () => {
-    elementoPlataformas.classList.toggle("ativo");
-});
 
 function Cadastrar(){
     alert("Conta criada com êxito.");

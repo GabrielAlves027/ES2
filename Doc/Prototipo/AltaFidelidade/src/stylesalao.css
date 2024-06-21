@@ -1,8 +1,7 @@
-
 .tela-login{
     width: 100%;
     min-height: 100vh;
-    background-color: #4e899b;
+    background-color: #E6CB96;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -26,31 +25,10 @@
     margin: 10px;
 }
 
-.dropbutton{
-    color: #000;
-    width: 100%;
-    cursor: pointer;
-}
-
-.dropbutton .options-drop{
-    margin-top: 10px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    transition: all .3s ease-in;
-    display: none;
-    opacity: 0;
-}
-
-.dropbutton .options-drop.ativo{
-    display: flex;
-    opacity: 1;
-}
-
 .tela-cadastro{
     width: 100%;
     min-height: 100vh;
-    background-color: #4e899b;
+    background-color: #E6CB96;
     display: flex;
     align-items: center;
     justify-content: center;

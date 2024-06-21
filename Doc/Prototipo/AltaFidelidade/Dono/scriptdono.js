@@ -29,3 +29,11 @@ function Agendar(){
 function cancelarAgendamento(){
     alert("Agendamento cancelado.")
 }
+
+function NovoEndereco(){
+    alert("Você já atingiu o limite de endereços do seu plano!");
+}
+
+function RemoverEndereco(){
+    alert("Endereço removido.");
+}
