@@ -31,11 +31,11 @@ function login(){
     const loginemail = document.getElementById("email").value;
     
     if(loginemail === "dono@gmail.com"){
-        window.location.href = "./Dono/homedono.html";
+        window.location.href = "../Dono/homedono.html";
     }
 
     if(loginemail === "administrador@gmail.com"){
-        window.location.href = "./Administrador/homeadministrador.html";
+        window.location.href = "../Administrador/homeadministrador.html";
     }
 
     if(loginemail !== "dono@gmail.com" && loginemail !== "administrador@gmail.com"){
