@@ -18,6 +18,10 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 
 <br>https://www.youtube.com/watch?v=K39h4SW--sU<br>
 
+## GitHub Pages
+
+<br>https://gabrielalves027.github.io/ES2/<br>
+
 ## Tecnologias Utilizadas
 ### Back-end:
 - Java-Spring
