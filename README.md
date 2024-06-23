@@ -13,7 +13,11 @@ Um sistema de gestão para salão de beleza/barbeiro deve ser acessível, intuit
 ## Modelo de Negocio
  
 <br>https://github.com/ARMCardoso/ES2/blob/main/Doc/Modelo_de_Negocio.md</br>
- 
+
+## Vídeo do Youtube do Projeto
+
+<br>https://www.youtube.com/watch?v=K39h4SW--sU<br>
+
 ## Tecnologias Utilizadas
 ### Back-end:
 - Java-Spring
