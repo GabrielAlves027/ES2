@@ -5,7 +5,7 @@
 
 A tela de Login de todos os usuários do sistema será a mesma.
 
-<img src="./telas-alta-fidelidade/Login_Geral" alt="Texto Alternativo">
+<img src="./telas-alta-fidelidade/Login_Geral.png" alt="Texto Alternativo">
 
 ## Dono
 
