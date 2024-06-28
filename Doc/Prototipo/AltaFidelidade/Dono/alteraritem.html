@@ -72,7 +72,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                   <a class="dropdown-item" href="estoque.html">Visualizar Estoque</a>
-                  <a class="dropdown-item" href="alteraritem.html">Alterar Item</a>
+                  <a class="dropdown-item" href="alteraritem.html">Entrada/Saída</a>
                 </div>
               </li>
               <li class="nav-item">
@@ -98,7 +98,30 @@
                         </select>
                       </div>
                     <div class="col-md-6">
-                        <label class="form-label">Quantidade</label>
+                        <label class="form-label">Quantidade de entrada</label>
+                        <input type="number" class="form-control">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Data da Alteração</label>
+                        <input type="date" class="form-control">
+                    </div>
+                </form>
+              </div>
+              <div class="col">
+                <form>
+                    <div class="col-md-4">
+                        <label for="inputState" class="form-label">Código do Item</label>
+                        <select id="inputState" class="form-select">
+                          <option selected>Escolha</option>
+                          <option>01</option>
+                          <option>12</option>
+                          <option>14</option>
+                          <option>17</option>
+                          <option>22</option>
+                        </select>
+                      </div>
+                    <div class="col-md-6">
+                        <label class="form-label">Quantidade de saída</label>
                         <input type="number" class="form-control">
                     </div>
                     <div class="col-md-4">

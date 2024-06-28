@@ -72,7 +72,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                   <a class="dropdown-item" href="estoque.html">Visualizar Estoque</a>
-                  <a class="dropdown-item" href="alteraritem.html">Alterar Item</a>
+                  <a class="dropdown-item" href="alteraritem.html">Entrada/Saída</a>
                 </div>
               </li>
               <li class="nav-item">
@@ -89,51 +89,6 @@
                 <label class="form-label">Selecione o mês/ano</label>
                 <input type="month" class="form-control" value="2024-01">
             </div>
-            <div class="col-md-8">
-              <label class="form-label">Selecione a unidade</label>
-              <select class="form-select" aria-label="Default select example">
-                  <option selected>...</option>
-                  <option value="1">Av. Belo Horizonte, 536, Jd Simus</option>
-                  <option value="2">Rua Augusta, 1234, Consolação</option>
-                  <option value="3">Rua Parapuã, 230, Freguesia do Ó</option>
-              </select>
-          </div>
-            <button class="btn btn-primary" id="botao-cadastro" onclick="CancelarAgendamento()">Cancelar</button>
-          </div>
-          <div class="col">
-            <div class="col-md-4">
-                <label class="form-label">Selecione o dia</label>
-                <input type="text">
-            </div>
-            <div class="col-md-8">
-              <label class="form-label">Selecione o Profissional</label>
-              <select class="form-select" aria-label="Default select example">
-                <option selected>...</option>
-                <option value="1">João Vitor</option>
-                <option value="2">Gabriel</option>
-                <option value="3">Pablo</option>
-              </select>
-            </div>
-          </div>
-          <div class="col">
-            <div class="col-md-4">
-                <label class="form-label">Selecione o CPF</label>
-                <input type="text">
-            </div>
-            <div class="col-md-8">
-              <label class="form-label">Selecione o serviço</label>
-              <select class="form-select" aria-label="Default select example">
-                  <option selected>...</option>
-                  <option value="1">Corte</option>
-                  <option value="2">Barba</option>
-                  <option value="3">Sobrancelha</option>
-                  <option value="4">Corte + Barba</option>
-                  <option value="5">Corte + Sobrancelha</option>
-                  <option value="6">Barba + Sobrancelha</option>
-                  <option value="7">Corte + Barba + Sobrancelha</option>
-                  <option value="8">Pacote 3(Completo)</option>
-              </select>
-          </div>
           </div>
         </div>
       </div>
@@ -141,48 +96,58 @@
         <table id="table1">
           <tr>
             <th>Cliente</th>
-            <th>CPF</th>
+            <th>Telefone</th>
             <th>Serviço</th>
             <th>Dia</th>
             <th>Valor</th>
             <th>Profissional</th>
             <th>Unidade</th>
+            <th>Horário</th>
+            <th>Cancelar</th>
           </tr>
           <tr>
             <td>Rogério Nogueira</td>
-            <td>234.432.546-90</td>
+            <td>(21)998343-0989</td>
             <td>Corte</td>
-            <td>02</td>
+            <td>02/07/2024</td>
             <td>R$45,00</td>
             <td>João Vitor</td>
             <td>Rua Parapuã, 230, Freguesia do Ó</td>
+            <td>11:30</td>
+            <td><button class="btn btn-primary" id="botao-cadastro">Cancelar</button></td>
           </tr>
           <tr>
             <td>Machado de Assis</td>
-            <td>928.566.222.01</td>
+            <td>(11)97465-3212</td>
             <td>Corte + Barba</td>
-            <td>23</td>
+            <td>23/07/2024</td>
             <td>R$75,00</td>
             <td>Gabriel</td>
             <td>Rua Parapuã, 230, Freguesia do Ó</td>
+            <td>17:00</td>
+            <td><button class="btn btn-primary" id="botao-cadastro">Cancelar</button></td>
           </tr>
           <tr>
             <td>Dimitri Gouvêa</td>
-            <td>874.401.023.88</td>
+            <td>(15)94554-3278</td>
             <td>Corte + Barba + Sobrancelha</td>
-            <td>23</td>
+            <td>23/07/2024</td>
             <td>R$85,00</td>
             <td>Pablo</td>
             <td>Rua Parapuã, 230, Freguesia do Ó</td>
+            <td>14:30</td>
+            <td><button class="btn btn-primary" id="botao-cadastro">Cancelar</button></td>
           </tr>
           <tr>
             <td>Machado de Assis</td>
-            <td>928.566.222.01</td>
+            <td>(11)97465-3212</td>
             <td>Pacote 3(Completo)</td>
-            <td>28</td>
+            <td>28/07/2024</td>
             <td>-</td>
             <td>Gabriel</td>
             <td>Rua Parapuã, 230, Freguesia do Ó</td>
+            <td>11:30</td>
+            <td><button class="btn btn-primary" id="botao-cadastro">Cancelar</button></td>
           </tr>
         </table>
       </div>
