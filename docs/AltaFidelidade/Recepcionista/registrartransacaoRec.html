@@ -60,41 +60,40 @@
         </div>
       </nav>
       <div class="container-fluid">
-        <div class="row align-items-start">
-              <div class="col">
-                <div class="col-md-6">
-                    <label class="form-label">Serviço</label>
-                    <input type="text" class="form-control">
+        <div>
+            <div class="mb-3">
+                <label class="form-label">Serviço</label>
+                <input type="text" class="form-control w-40">
+            </div>
+            <button class="btn btn-primary mb-3" id="botao-cadastro">Adicionar Serviço</button>
+
+            <div class="mb-3">
+              <label class="form-label">Valor</label>
+              <input type="text" class="form-control w-40">
+            </div>
+            <button class="btn btn-primary mb-3" id="botao-mudar" onclick="Pagamento()">Efetuar Transação</button>
+
+            <form>
+                <div class="mb-3">
+                    <label class="form-label">Agendamento</label>
+                    <input type="text" class="form-control w-40">
                 </div>
-                <button class="btn btn-primary" id="botao-cadastro">Adicionar Serviço</button>
-                <div class="col-md-6">
-                  <label class="form-label">Valor</label>
-                  <input type="text" class="form-control">
-              </div>
-              <button class="btn btn-primary" id="botao-mudar" onclick="Pagamento()">Efetuar Transação</button>
-              </div>
-              <div class="col">
-                <form>
-                    <div class="col-md-6">
-                        <label class="form-label">Agendamento</label>
-                        <input type="text" class="form-control">
-                    </div>
-                    <div class="col-md-6">
-                        <label class="form-label">Profissional</label>
-                        <input type="text" class="form-control">
-                    </div>
-                    <div class="col-md-6">
-                      <label class="form-label">Cliente</label>
-                      <input type="text" class="form-control">
-                  </div>
-                  <div class="col-md-6">
+                <div class="mb-3">
+                    <label class="form-label">Profissional</label>
+                    <input type="text" class="form-control w-40">
+                </div>
+                <div class="mb-3">
+                  <label class="form-label">Cliente</label>
+                  <input type="text" class="form-control w-40">
+                </div>
+                <div class="mb-3">
                     <label class="form-label">Produto utilizado</label>
-                    <input type="text" class="form-control">
-                    <button class="btn btn-primary" id="botao-cadastro">Adicionar Produto</button>
-                  </div>
-                </form>
-              </div>
+                    <input type="text" class="form-control w-40">
+                </div>
+                <button class="btn btn-primary mb-3" id="botao-cadastro">Adicionar Produto</button>
+            </form>
         </div>
+      </div>
 </body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>

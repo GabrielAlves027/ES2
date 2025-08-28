@@ -60,57 +60,53 @@
         </div>
       </nav>
       <div class="container-fluid">
-        <div class="row align-items-start">
-            <div class="col">
-                <form>
-                    <div class="mb-3">
-                        <label for="formGroupExampleInput" class="form-label">Telefone</label>
-                        <input type="text" class="form-control" id="formGroupExampleInput">
-                    </div>
-                    <div class="mb-3">
-                        <label for="formGroupExampleInput" class="form-label">Serviço</label>
-                        <select class="form-select" aria-label="Default select example">
-                            <option selected>...</option>
-                            <option value="1">Corte</option>
-                            <option value="2">Barba</option>
-                            <option value="3">Sobrancelha</option>
-                          </select>
-                    </div>
-                    <button class="btn btn-primary" id="botao-remover">Adicionar Serviço</button>
-                    <div class="col-md-8">
-                        <label class="form-label">Selecione a unidade</label>
-                        <select class="form-select" aria-label="Default select example">
-                            <option selected>...</option>
-                            <option value="1">Av. Belo Horizonte, 536, Jd Simus</option>
-                            <option value="2">Rua Augusta, 1234, Consolação</option>
-                            <option value="3">Rua Parapuã, 230, Freguesia do Ó</option>
-                        </select>
-                    </div>
-                    <div class="col-md-4">
-                        <label class="form-label">Selecione o dia</label>
-                        <input type="datetime-local" class="form-control">
-                    </div>
-                </form>
-              </div>
-              <div class="col">
-                <form>
-                    <div class="mb-3">
-                        <label class="form-label">Nome do Cliente</label>
-                        <input type="text" class="form-control">
-                    </div>
-                    <div class="mb-3">
-                        <label class="form-label">Selecione o Profissional</label>
-                        <select class="form-select" aria-label="Default select example">
-                            <option selected>...</option>
-                            <option value="1">João Vitor</option>
-                            <option value="2">Gabriel</option>
-                            <option value="3">Pablo</option>
-                          </select>
-                    </div>
-                </form>
-              </div>
-        </div>
-        <button class="btn btn-primary" id="botao-cadastro" onclick="Agendar()">Agendar</button>
+        <form>
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Telefone</label>
+                <input type="text" class="form-control w-40" id="formGroupExampleInput">
+            </div>
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Serviço</label>
+                <select class="form-select w-40" aria-label="Default select example">
+                    <option selected>...</option>
+                    <option value="1">Corte</option>
+                    <option value="2">Barba</option>
+                    <option value="3">Sobrancelha</option>
+                  </select>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-primary" id="botao-remover">Adicionar Serviço</button>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Selecione a unidade</label>
+                <select class="form-select w-40" aria-label="Default select example">
+                    <option selected>...</option>
+                    <option value="1">Av. Belo Horizonte, 536, Jd Simus</option>
+                    <option value="2">Rua Augusta, 1234, Consolação</option>
+                    <option value="3">Rua Parapuã, 230, Freguesia do Ó</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Selecione o dia</label>
+                <input type="datetime-local" class="form-control w-40">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Nome do Cliente</label>
+                <input type="text" class="form-control w-40">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Selecione o Profissional</label>
+                <select class="form-select w-40" aria-label="Default select example">
+                    <option selected>...</option>
+                    <option value="1">João Vitor</option>
+                    <option value="2">Gabriel</option>
+                    <option value="3">Pablo</option>
+                  </select>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-primary" id="botao-cadastro" onclick="Agendar()">Agendar</button>
+            </div>
+        </form>
       </div>
 </body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

@@ -38,7 +38,7 @@ body{
 }
 
 #botao-busca{
-    margin-top: 32px;
+    margin-left: 10px;
 }
 
 #botao-cadastro{
@@ -60,6 +60,10 @@ body{
 
 .container-fluid #table1{
     overflow-y: scroll;
+}
+
+#label-busca{
+    margin-right: 10px;
 }
 
 #table2{
@@ -99,4 +103,32 @@ td{
 
 #check-end2{
     margin-bottom: 15px;
+}
+
+.btn-primary {
+    background-color:olivedrab!important;
+    border-color: olive !important;
+    color: black !important;
+}
+
+.w-40 {
+    width: 40% !important;
+}
+
+.welcome-message {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+.space {
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+    justify-items: center;
 }
